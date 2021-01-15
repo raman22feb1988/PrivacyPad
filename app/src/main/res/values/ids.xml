@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_replace_image" type="id" />
+    <item name="take_photo" type="id" />
+    <item name="browse_gallery" type="id" />
+</resources>

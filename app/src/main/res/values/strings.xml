@@ -1,0 +1,26 @@
+<resources>
+    <string name="replace_image">Replace Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="replace_lock_image">Replace Lock Image</string>
+    <string name="app_name">JPrivacy Pad</string>
+    <string name="toast_cant_save">Unable to save notes! Check if there is Enough Space on your storage.</string>
+    <string name="edit_text_hint">Happy Typing :)</string>
+    <string name="password_image">password image</string>
+    <string name="title_activity_image">Passpoints Image</string>
+    <string name="storing_data">Storing Passpoints...</string>
+    <string name="save">Save Notes</string>
+    <string name="lock">Lock Notes</string>
+    <string name="menu_passpoints_reset"> Reset Passpoints</string>
+    <string name="menu_reset">Menu Settings</string>
+    <string name="browse_gallery">Browse Gallery</string>
+    <string name="unable_to_save_photo_file">Unable to save photo file.</string>
+    <string name="take_a_photo">Take A Photo</string>
+    <string name="create_passpoints">Create Your Password Sequence</string>
+    <string name="create_passpoints_text">Touch four points on the image to set Password Sequence. Remeber to touch the same points in future to gain access</string>
+    <string name="enter_passpoints_title">Login</string>
+    <string name="enter_passpoints_text">You can now log in by re-entering your passpoints.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="checking_passpoints">" Cheking passpoints... "</string>
+    <string name="acess_denied">Acess Denied</string>
+    <string name="unable_to_display_image">Unable To Display Image</string>
+</resources>
